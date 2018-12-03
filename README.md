@@ -2,7 +2,7 @@
 add tab auto-complete function to python console
 
 ## Step 1
-download file .pyrc
+download file pyrc.txt
 
 ## Step 2
 open your terminal then go in Downloas folder 
@@ -12,10 +12,10 @@ cd Downloads
 ```
 
 ## Step 3
-move file .pyrc in your home directory:
+move & rename file .pyrc in your home directory:
 digit: 
 ```
-mv .pyrc $HOME/.pyrc
+mv pyrc.xt $HOME/.pyrc
 ```
 
 ## Step 4
